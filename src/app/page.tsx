@@ -1,6 +1,6 @@
 'use client';
 import dynamic from 'next/dynamic';
-const CoffeeMap = dynamic(() => import('./components/coffeemap'), );
+const CoffeeMap = dynamic(() => import('./components/bathroommap'), );
 
 export default function Home() {
 

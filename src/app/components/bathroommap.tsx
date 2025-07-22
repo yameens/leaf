@@ -6,7 +6,7 @@ import { useState } from 'react';
 
 const MAPBOX_TOKEN = 'pk.eyJ1IjoicHJvZ3JhbXlhbSIsImEiOiJjbWNwaWdjbHYwNnB2MmtweDFxaW01a2x4In0.-40m_XC5HdQrS6e8ONcLWA';
 
-export default function CoffeeMap() {
+export default function BathroomMap() {
     const [viewState, setViewState] = useState({
         latitude: 37.7749,
         longitude: -122.4194,
