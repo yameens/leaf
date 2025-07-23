@@ -1,0 +1,1378 @@
+[
+  {
+    "id": 302034423,
+    "lat": 37.7731798,
+    "lon": -122.3936433,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 302482492,
+    "lat": 37.7842265,
+    "lon": -122.501833,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 317081556,
+    "lat": 37.7843325,
+    "lon": -122.4078294,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 366704003,
+    "lat": 37.8004701,
+    "lon": -122.4097034,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 377909484,
+    "lat": 37.7876864,
+    "lon": -122.4074419,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 392451432,
+    "lat": 37.7704349,
+    "lon": -122.4694008,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 411807612,
+    "lat": 37.7766277,
+    "lon": -122.3946674,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 414258438,
+    "lat": 37.7649395,
+    "lon": -122.4200619,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 417233587,
+    "lat": 37.7723588,
+    "lon": -122.4476402,
+    "name": "Panhandle Toilets",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 417955674,
+    "lat": 37.767972,
+    "lon": -122.501825,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 420518481,
+    "lat": 37.7521523,
+    "lon": -122.4188013,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 432827778,
+    "lat": 37.784031,
+    "lon": -122.4124442,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 440853811,
+    "lat": 37.7667807,
+    "lon": -122.4927747,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 633107254,
+    "lat": 37.7360222,
+    "lon": -122.4871608,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 636784895,
+    "lat": 37.7361877,
+    "lon": -122.4782293,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 638577325,
+    "lat": 37.7371494,
+    "lon": -122.4764077,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 702393187,
+    "lat": 37.7332114,
+    "lon": -122.5034186,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 702393212,
+    "lat": 37.7340937,
+    "lon": -122.5052622,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 702393213,
+    "lat": 37.7337415,
+    "lon": -122.5029662,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 702393576,
+    "lat": 37.7332019,
+    "lon": -122.4999671,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 702393650,
+    "lat": 37.7319384,
+    "lon": -122.5027825,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 702393653,
+    "lat": 37.7328761,
+    "lon": -122.505112,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 708463413,
+    "lat": 37.7713204,
+    "lon": -122.398614,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 827150952,
+    "lat": 37.7936199,
+    "lon": -122.4070155,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 845504915,
+    "lat": 37.8027659,
+    "lon": -122.4120946,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 856296902,
+    "lat": 37.7956802,
+    "lon": -122.4206394,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 904144016,
+    "lat": 37.8084689,
+    "lon": -122.4209509,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1040878097,
+    "lat": 37.7395951,
+    "lon": -122.4761763,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1278485243,
+    "lat": 37.8085191,
+    "lon": -122.471094,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 1309649654,
+    "lat": 37.768544,
+    "lon": -122.4279014,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 1309649655,
+    "lat": 37.7628117,
+    "lon": -122.434741,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1350854629,
+    "lat": 37.7698109,
+    "lon": -122.4686506,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 1350922160,
+    "lat": 37.7684831,
+    "lon": -122.4971579,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1564452799,
+    "lat": 37.8056757,
+    "lon": -122.4482832,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 1564452800,
+    "lat": 37.8056287,
+    "lon": -122.4517557,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1721463106,
+    "lat": 37.7879452,
+    "lon": -122.4909543,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 1736599866,
+    "lat": 37.7602393,
+    "lon": -122.509581,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 2058910279,
+    "lat": 37.7543656,
+    "lon": -122.4464703,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 2064757156,
+    "lat": 37.7684543,
+    "lon": -122.4535696,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 2351681831,
+    "lat": 37.8064678,
+    "lon": -122.4345354,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 2567014258,
+    "lat": 37.7796432,
+    "lon": -122.5115478,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 2702192516,
+    "lat": 37.740069,
+    "lon": -122.3759241,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3178008061,
+    "lat": 37.7594082,
+    "lon": -122.4223991,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 3257706565,
+    "lat": 37.7828967,
+    "lon": -122.4011944,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 3299885080,
+    "lat": 37.7435311,
+    "lon": -122.4809284,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3331466048,
+    "lat": 37.8073059,
+    "lon": -122.4747791,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 3506280410,
+    "lat": 37.7257536,
+    "lon": -122.499696,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3732472525,
+    "lat": 37.8066538,
+    "lon": -122.4426122,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3771387357,
+    "lat": 37.8011113,
+    "lon": -122.4106185,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 3837726405,
+    "lat": 37.7693569,
+    "lon": -122.5101919,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 3841746668,
+    "lat": 37.7268399,
+    "lon": -122.44779,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 3853875559,
+    "lat": 37.7478868,
+    "lon": -122.4384316,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3853875560,
+    "lat": 37.7477571,
+    "lon": -122.4384232,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3860473045,
+    "lat": 37.733064,
+    "lon": -122.4998101,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3931486668,
+    "lat": 37.7759784,
+    "lon": -122.427519,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3931507126,
+    "lat": 37.8012718,
+    "lon": -122.4167967,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3954141551,
+    "lat": 37.7905844,
+    "lon": -122.4597533,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 3954584703,
+    "lat": 37.7831067,
+    "lon": -122.5104283,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 3965093316,
+    "lat": 37.7561344,
+    "lon": -122.3970532,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 4005036477,
+    "lat": 37.743915,
+    "lon": -122.4402503,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 4034351103,
+    "lat": 37.7414268,
+    "lon": -122.507108,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 4177860468,
+    "lat": 37.7425752,
+    "lon": -122.4283848,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 4177860470,
+    "lat": 37.7423218,
+    "lon": -122.4284827,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 4293388391,
+    "lat": 37.7224052,
+    "lon": -122.4144855,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 4293394091,
+    "lat": 37.723687,
+    "lon": -122.422737,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 4293452789,
+    "lat": 37.7224377,
+    "lon": -122.4144319,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 4341828616,
+    "lat": 37.8060949,
+    "lon": -122.4228277,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 4360397689,
+    "lat": 37.72513,
+    "lon": -122.445612,
+    "name": "Men",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 4360397789,
+    "lat": 37.7251309,
+    "lon": -122.445467,
+    "name": "Women",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 4420919949,
+    "lat": 37.7939633,
+    "lon": -122.4558646,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 4633802106,
+    "lat": 37.7569884,
+    "lon": -122.486994,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 5000827371,
+    "lat": 37.7899544,
+    "lon": -122.3933792,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 5126907222,
+    "lat": 37.8056735,
+    "lon": -122.4231181,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 5241967566,
+    "lat": 37.8017997,
+    "lon": -122.4563177,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 5915143584,
+    "lat": 37.7756063,
+    "lon": -122.3945,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6194001386,
+    "lat": 37.7845929,
+    "lon": -122.4038063,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6345702123,
+    "lat": 37.8090877,
+    "lon": -122.4097032,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6538394085,
+    "lat": 37.8047813,
+    "lon": -122.4022137,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6538396085,
+    "lat": 37.8048012,
+    "lon": -122.4022505,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6635786995,
+    "lat": 37.7279263,
+    "lon": -122.4765902,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6635787008,
+    "lat": 37.7278024,
+    "lon": -122.4765825,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6635835214,
+    "lat": 37.7288251,
+    "lon": -122.4774706,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6693595722,
+    "lat": 37.7850838,
+    "lon": -122.4290459,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6698260685,
+    "lat": 37.7978418,
+    "lon": -122.3959572,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 6744788665,
+    "lat": 37.7821259,
+    "lon": -122.494257,
+    "name": "Public Restroom",
+    "wheelchair": false,
+    "unisex": true
+  },
+  {
+    "id": 6766662891,
+    "lat": 37.8063548,
+    "lon": -122.4238749,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 6960892849,
+    "lat": 37.791792,
+    "lon": -122.4054557,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 6967702187,
+    "lat": 37.7240518,
+    "lon": -122.456197,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 6967702188,
+    "lat": 37.723671,
+    "lon": -122.4544266,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 7053759930,
+    "lat": 37.7369318,
+    "lon": -122.4405413,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 7173708385,
+    "lat": 37.768797,
+    "lon": -122.3869512,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 8310509301,
+    "lat": 37.7543413,
+    "lon": -122.4464987,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 8377046977,
+    "lat": 37.768009,
+    "lon": -122.4966754,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 8395167118,
+    "lat": 37.7695442,
+    "lon": -122.4344603,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 8416796936,
+    "lat": 37.7516685,
+    "lon": -122.4558661,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 8889608955,
+    "lat": 37.7623939,
+    "lon": -122.4187832,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 8893626643,
+    "lat": 37.7912694,
+    "lon": -122.453753,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9046865011,
+    "lat": 37.8015353,
+    "lon": -122.4332361,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9046865012,
+    "lat": 37.8014916,
+    "lon": -122.4332273,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9052069017,
+    "lat": 37.7944342,
+    "lon": -122.3993844,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 9200292432,
+    "lat": 37.7847481,
+    "lon": -122.4321865,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9225712936,
+    "lat": 37.7802637,
+    "lon": -122.4130609,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 9443918157,
+    "lat": 37.8016481,
+    "lon": -122.4569798,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9456812862,
+    "lat": 37.7838927,
+    "lon": -122.4029557,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 9491158566,
+    "lat": 37.8104895,
+    "lon": -122.4108595,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 9527978213,
+    "lat": 37.8135327,
+    "lon": -122.3602358,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 9531185814,
+    "lat": 37.7949905,
+    "lon": -122.3987958,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9596443258,
+    "lat": 37.7787681,
+    "lon": -122.4170192,
+    "name": "Civic Center Pit Stop",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 9710478732,
+    "lat": 37.7639134,
+    "lon": -122.3988527,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9727962584,
+    "lat": 37.8108747,
+    "lon": -122.4103615,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9728292944,
+    "lat": 37.810589,
+    "lon": -122.4103248,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9735505811,
+    "lat": 37.7855573,
+    "lon": -122.4180834,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": true
+  },
+  {
+    "id": 9854848727,
+    "lat": 37.8035663,
+    "lon": -122.421233,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 9900386797,
+    "lat": 37.8073813,
+    "lon": -122.4749,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 9955664730,
+    "lat": 37.8037425,
+    "lon": -122.4557841,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 10080923200,
+    "lat": 37.7507207,
+    "lon": -122.4983052,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10080923201,
+    "lat": 37.7506612,
+    "lon": -122.4983435,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10080967975,
+    "lat": 37.7844469,
+    "lon": -122.4074118,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10213325026,
+    "lat": 37.7947531,
+    "lon": -122.4083554,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10252456318,
+    "lat": 37.7828934,
+    "lon": -122.4011604,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 10270353991,
+    "lat": 37.769385,
+    "lon": -122.4931984,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10270353992,
+    "lat": 37.7694048,
+    "lon": -122.4930217,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10538307838,
+    "lat": 37.7947381,
+    "lon": -122.3947142,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10585161530,
+    "lat": 37.7662136,
+    "lon": -122.4561553,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10585161535,
+    "lat": 37.7662105,
+    "lon": -122.4558563,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10607542841,
+    "lat": 37.7416686,
+    "lon": -122.4653047,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10681977163,
+    "lat": 37.7739376,
+    "lon": -122.4738535,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10711248255,
+    "lat": 37.7485665,
+    "lon": -122.4160398,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10744144245,
+    "lat": 37.8069023,
+    "lon": -122.4048747,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10791026160,
+    "lat": 37.7293253,
+    "lon": -122.4096782,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10805597223,
+    "lat": 37.7968258,
+    "lon": -122.3949918,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10827900219,
+    "lat": 37.8093778,
+    "lon": -122.416443,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10832810391,
+    "lat": 37.7700512,
+    "lon": -122.4595851,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10859142581,
+    "lat": 37.7848814,
+    "lon": -122.4017916,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10874914015,
+    "lat": 37.7799911,
+    "lon": -122.387853,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10958544184,
+    "lat": 37.7642492,
+    "lon": -122.4707988,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10968501891,
+    "lat": 37.7977127,
+    "lon": -122.3957213,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 10968514808,
+    "lat": 37.7957571,
+    "lon": -122.392266,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 10968514809,
+    "lat": 37.7957813,
+    "lon": -122.392287,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11049946388,
+    "lat": 37.7265685,
+    "lon": -122.4763544,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11065830972,
+    "lat": 37.7797437,
+    "lon": -122.4877562,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11345225910,
+    "lat": 37.7974416,
+    "lon": -122.4594277,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11423890617,
+    "lat": 37.807352,
+    "lon": -122.4181316,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11423890648,
+    "lat": 37.8089814,
+    "lon": -122.4124271,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11423890670,
+    "lat": 37.8072337,
+    "lon": -122.4188307,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11705048298,
+    "lat": 37.769141,
+    "lon": -122.5066015,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11749354385,
+    "lat": 37.8026055,
+    "lon": -122.4060059,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11787304477,
+    "lat": 37.7266964,
+    "lon": -122.4778038,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11841464463,
+    "lat": 37.7925936,
+    "lon": -122.3970329,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11867063168,
+    "lat": 37.7952502,
+    "lon": -122.3971719,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11890113986,
+    "lat": 37.7431466,
+    "lon": -122.3868742,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11899324898,
+    "lat": 37.7515056,
+    "lon": -122.4652002,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 11899324931,
+    "lat": 37.7417191,
+    "lon": -122.465261,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11899324932,
+    "lat": 37.7250999,
+    "lon": -122.4740792,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 11947317170,
+    "lat": 37.7763128,
+    "lon": -122.3884979,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 11950634203,
+    "lat": 37.7358053,
+    "lon": -122.4098078,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 12050491858,
+    "lat": 37.8039161,
+    "lon": -122.448696,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 12203062401,
+    "lat": 37.8087381,
+    "lon": -122.4155966,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12212647044,
+    "lat": 37.802599,
+    "lon": -122.4611288,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": true
+  },
+  {
+    "id": 12253529596,
+    "lat": 37.7833622,
+    "lon": -122.4780596,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12269947253,
+    "lat": 37.7325001,
+    "lon": -122.3760285,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12269947268,
+    "lat": 37.7322295,
+    "lon": -122.3757598,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12405811909,
+    "lat": 37.7839985,
+    "lon": -122.4376519,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12405811918,
+    "lat": 37.7839977,
+    "lon": -122.4376769,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  },
+  {
+    "id": 12535275012,
+    "lat": 37.8026055,
+    "lon": -122.4611832,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12605588124,
+    "lat": 37.7909947,
+    "lon": -122.4841679,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12641877127,
+    "lat": 37.8052689,
+    "lon": -122.4151485,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12685979582,
+    "lat": 37.7817857,
+    "lon": -122.4682098,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12724399810,
+    "lat": 37.7339027,
+    "lon": -122.4337903,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12838486458,
+    "lat": 37.7635139,
+    "lon": -122.4587016,
+    "name": "Public Restroom",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12880199025,
+    "lat": 37.758254,
+    "lon": -122.427972,
+    "name": "Dolores Park Pissoir",
+    "wheelchair": null,
+    "unisex": null
+  },
+  {
+    "id": 12908603132,
+    "lat": 37.7701758,
+    "lon": -122.4510767,
+    "name": "Public Restroom",
+    "wheelchair": true,
+    "unisex": null
+  }
+]
