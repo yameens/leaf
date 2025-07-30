@@ -5,6 +5,7 @@ import "./globals.css"
 import SearchBar from "./components/MySearchBar";
 import AddRestroom from "./components/AddRestroomForm"
 import React, { useState } from 'react';
+import NearestRestroomBlock from "./components/NearestRestroom";
 
 const BathroomMap = dynamic(() => import('./components/MapBathroom'));
 
@@ -41,6 +42,7 @@ export default function Home() {
         {selected === 'a' && (
           <div className = "flex space-x-5">
             <SearchBar />
+            <NearestRestroomBlock />
           </div>
         )
         }
