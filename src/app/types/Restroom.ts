@@ -5,4 +5,7 @@ export interface Restroom{
     name: string;
     wheelchair: boolean | null;
     unisex: boolean | null;
+    address?: string;
+    rating?: number;
+
 }

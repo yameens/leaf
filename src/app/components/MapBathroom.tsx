@@ -4,7 +4,7 @@ import Map, { Marker } from 'react-map-gl/mapbox';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { useState, useEffect } from 'react';
 import { getRestrooms } from '@/app/libraries/getRestroom';
-import type { Restroom } from "@/app/types/restroom";
+import type { Restroom } from "@/app/types/Restroom";
 
 const MAPBOX_TOKEN = 'pk.eyJ1IjoicHJvZ3JhbXlhbSIsImEiOiJjbWNwaWdjbHYwNnB2MmtweDFxaW01a2x4In0.-40m_XC5HdQrS6e8ONcLWA';
 
@@ -27,7 +27,7 @@ export default function BathroomMap() {
                 initialViewState={viewState}
                 mapStyle="mapbox://styles/mapbox/streets-v12"
                 onMove={(evt: any) => setViewState(evt.viewState)}>
-                {/* Example static marker */}
+                {/* example static marker */}
                 <Marker latitude={37.7749} longitude={-122.4194} color="red">
                     <img
                         src="cleantoilet.png"
@@ -35,7 +35,7 @@ export default function BathroomMap() {
                         style={{ width: 70, height: 50}}
                     />
                 </Marker>
-                {/* Render markers for each restroom */}
+                {/* render markers for each & every restroom */}
                 {restrooms.map((toilet) => (
                     <Marker
                         key={toilet.id}

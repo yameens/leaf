@@ -1,4 +1,4 @@
-import type { Restroom } from "@/app/types/restroom";
+import type { Restroom } from "@/app/types/Restroom";
 
 export async function getRestrooms(): Promise<Restroom[]> {
   const res = await fetch("/normalizedBumi.json", {
